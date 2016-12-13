@@ -10,11 +10,11 @@ The script's output is a dirty mix of International Phonetic Alphabet for some c
 and regular english for vowels (IPA vowels are complicated).
 
 The quick and dirty guide to IPA:
-ʃ = "sh"
-θ = "th"
-ŋ = "ng"
-ʒ = "j", but the soft j that you see in french.  English j is more like "dʒ"
-j = y
+* ʃ = "sh"
+* θ = "th"
+* ŋ = "ng"
+* ʒ = "j", but the soft j that you see in french.  English j is more like "dʒ"
+* j = y
 
 See [here](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) for more accurate details.
 
